@@ -45,4 +45,4 @@ This NLP app helps users identify the topic of news headlines using a simple log
 
 ## 7. Project Preview
 
-![App Screenshot](Screenshot1.png)
+![App Screenshot](Screenshot1.PNG)
